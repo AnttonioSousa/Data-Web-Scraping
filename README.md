@@ -9,4 +9,4 @@ download for run the script:
 # pip install re
 # pip install math
 
-#python version - 3
+# python version - 3
